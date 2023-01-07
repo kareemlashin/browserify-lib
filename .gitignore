@@ -1,0 +1,10 @@
+
+it will automatically create a .gitignore file if not then create a file name .gitignore and add copy & paste the below code
+
+# dependencies
+
+node_modules
+/node_modules
+node_modules/*
+*/node_modules
+**/node_modules
